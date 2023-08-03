@@ -1,7 +1,7 @@
 # Test
 For Test
 
-https://www.badu.com?aaa=1.sled'dd;dd.www
+https://www.badu.com\\@www.sled'dd;dd.com
 
 
 https://live.bilibili.com
