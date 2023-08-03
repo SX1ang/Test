@@ -6,6 +6,7 @@ https://www.badu.com\\@www.sled'dd;dd.com
 
 https://www.badu.com\\.www.sled'd%20ddd.com
 
+https://www.badu.com/id=www.sled'dd;dd.com
 
 https://live.bilibili.com
 
