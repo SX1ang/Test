@@ -4,6 +4,9 @@ For Test
 https://www.badu.com\\@www.sled'dd;dd.com
 
 
+https://www.badu.com\\.www.sled'dd;dd.com
+
+
 https://live.bilibili.com
 
 https://10.1.1.1
